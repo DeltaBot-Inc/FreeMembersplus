@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Discord+" src="https://cdn.discordapp.com/attachments/767084365451886662/770649088667811861/avatar.png">  
 
-# DeltaTickets
+# Discord+
 
 [![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/v7FPMPc)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
