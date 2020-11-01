@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/paypalme/DeltaBot)
 
-> Ce bot est utilisé par plus de 130k utilisateurs Discord et plus de 60 serveurs.
+> Ce bot est utilisé par plus de 130k utilisateurs Discord et plus de 90 serveurs.
 
 * Date de création: Crée le 18 octobre 2020
 * Date de mise en ligne Github: Le 27 octobre 2020
@@ -21,6 +21,7 @@ FreeMembers+ a beaucoup de fonctionnalités pour gagner des membres:
 *   🏆 **Owner**: `addbal`, `bbal`, `del`, `statut`, `ban`, `unban`, `end`, `loterie`, `remove`. 
 *   ⚒️ **Administration**: `prefix`.
 *   💎 **Général**: `help`, `invite`, `bal`, `s`, `pay`, `check`, `info`, `buy`, `giftcode`, `ticket`, `report`, `transactions`, `daily`, `stats`, `tutoriels`.
+*   ✉ **Inter-Pub**: `setchannel`, `install`.
 *   🚨 **Tutoriels**: `tutoadd`, `tutoserveur`, `tutodel`, `tutocoins`, `tutoloterie`, `tutogiftcode`.
 
 ## Links
