@@ -19,7 +19,7 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 FreeMembers+ a beaucoup de fonctionnalités pour gagner des membres:
 
 *   🏆 **Owner**: `addbal`, `bbal`, `del`, `statut`, `ban`, `unban`, `end`, `loterie`, `remove`. 
-*   ⚒️ **Administration**: `prefix`.
+*   ⚒️ **Administration**: `prefix`,`clear/ clear all`.
 *   💎 **Général**: `help`, `invite`, `bal`, `s`, `pay`, `check`, `info`, `buy`, `giftcode`, `ticket`, `report`, `transactions`, `daily`, `stats`, `tutoriels`.
 *   ✉ **Inter-Pub**: `setchannel`, `install`.
 *   🚨 **Tutoriels**: `tutoadd`, `tutoserveur`, `tutodel`, `tutocoins`, `tutoloterie`, `tutogiftcode`.
