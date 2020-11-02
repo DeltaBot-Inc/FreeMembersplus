@@ -23,6 +23,7 @@ FreeMembers+ a beaucoup de fonctionnalités pour gagner des membres:
 *   💎 **Général**: `help`, `invite`, `bal`, `s`, `pay`, `check`, `info`, `buy`, `giftcode`, `ticket`, `report`, `transactions`, `daily`, `stats`, `tutoriels`.
 *   ✉ **Inter-Pub**: `setchannel`, `install`.
 *   🚨 **Tutoriels**: `tutoadd`, `tutoserveur`, `tutodel`, `tutocoins`, `tutoloterie`, `tutogiftcode`.
+*   ⭐ **VIP**: `vipdaily`, `clearlogs`, `buyvip`.
 
 ## Links
 
